@@ -25,7 +25,7 @@ func main() {
 	// Asignación de varias variables
 	var nombre string
 	var numero int
-	nombre = "Esteban"
+	nombre, numero = "Esteban", 35
 	fmt.Println(nombre)
 	fmt.Println(numero)
 }
