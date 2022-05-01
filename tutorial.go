@@ -18,4 +18,6 @@ func main() {
 	var name string
 	name = "Alejandra Avila"
 	fmt.Println(name)
+	name = "Ale Avila"
+	fmt.Println(name)
 }
