@@ -15,5 +15,7 @@ func main() {
 	fmt.Println(number)
 	number = 45
 	fmt.Println(number)
-
+	var name string
+	name = "Alejandra Avila"
+	fmt.Println(name)
 }
